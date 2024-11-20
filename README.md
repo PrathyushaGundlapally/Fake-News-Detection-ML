@@ -61,5 +61,5 @@ The implemented models achieve promising accuracy in classifying news articles. 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone "https://github.com/PrathyushaGundlapally/Fake-News-Detection-ML"
    cd fake-news-detection
