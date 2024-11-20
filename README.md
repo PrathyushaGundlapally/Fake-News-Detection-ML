@@ -1,5 +1,3 @@
-# Generate README.md file content
-readme_content = """
 # Fake News Detection
 
 This project aims to detect and classify news articles as real or fake using machine learning techniques. The analysis and implementation are documented in a Jupyter Notebook.
